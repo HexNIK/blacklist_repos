@@ -1,3 +1,6 @@
+
+![jedi_yoda.png](jedi_yoda.png)
+
 ## my list of "bad, malicious, suspicious etc." repositories
 
 ---
